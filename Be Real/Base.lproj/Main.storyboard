@@ -315,9 +315,9 @@
                         <viewLayoutGuide key="safeArea" id="9ww-49-hW1"/>
                         <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
+                            <constraint firstItem="if7-R7-g8V" firstAttribute="trailing" secondItem="9ww-49-hW1" secondAttribute="trailing" id="1bJ-KD-Jto"/>
                             <constraint firstItem="if7-R7-g8V" firstAttribute="top" secondItem="9ww-49-hW1" secondAttribute="top" id="6u7-E6-mHz"/>
                             <constraint firstItem="if7-R7-g8V" firstAttribute="leading" secondItem="9ww-49-hW1" secondAttribute="leading" id="K9f-LX-H74"/>
-                            <constraint firstItem="9ww-49-hW1" firstAttribute="trailing" secondItem="if7-R7-g8V" secondAttribute="trailing" id="YE3-gX-BWa"/>
                             <constraint firstAttribute="bottom" secondItem="if7-R7-g8V" secondAttribute="bottom" id="gSb-1R-JSD"/>
                         </constraints>
                     </view>
